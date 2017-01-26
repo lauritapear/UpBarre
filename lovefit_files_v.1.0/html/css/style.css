@@ -101,7 +101,7 @@ body {
 	font-size: 14px;
 	line-height: 1.5;
 	font-family: "Poppins", Arial, sans-serif;
-	color: #444;
+	color: #686868;
 	-webkit-font-smoothing: antialiased;
 	font-weight: 300;
 }
@@ -113,7 +113,7 @@ h4,
 h5,
 h6 {
 	-webkit-font-smoothing: antialiased;
-	color: #222;
+	color: #686868;
 	font-weight: 300;
 }
 
@@ -203,11 +203,11 @@ h3.slide_typo {
 	line-height: 1.1;
 	font-weight: 600;
 	text-align: center;
-	text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.45);
+	text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.65);
 }
 
 .slide_typo_2 {
-	color: #fff;
+	color: #999;
 	font-size: 22px;
 	white-space: nowrap;
 	font-weight: 500;
