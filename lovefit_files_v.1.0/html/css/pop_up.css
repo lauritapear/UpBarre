@@ -176,7 +176,7 @@ h3#pop_msg strong{
   font-weight: normal;
   line-height: 1.428571429;
   color: #fff;
-  background-color: #795aac;
+  background-color: #7E607B;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -207,14 +207,14 @@ h3#pop_msg strong{
   color: #fff;
 }
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.primary {
-  background-color: #2980b9;
+  background-color: #7E607B;
 }
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.primary:hover,
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.primary:focus {
   background-color: #3e4b5d;
 }
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.success {
-  background-color: #27ae60;
+  background-color: #7E607B;
 }
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.success:hover,
 .pop-container .pop-fixer .pop-outer .pop-toolbar .pop-button.success:focus {
@@ -298,4 +298,3 @@ h3#pop_msg strong{
 }
 
 }
-	
